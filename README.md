@@ -1,8 +1,13 @@
-# knock
+# Port knock
 
-Shellscript version in Bash of portknocker.
+Various portknockers clients.
 
-Needs nmap
+
+Languages:
+- C
+- ShellScript (bash)
+- PowerSHell
+- AutoIT
 
 
 :)
