@@ -1,6 +1,6 @@
 # knock
 
-Shellscript version of portknocker.
+Shellscript version in Bash of portknocker.
 
 Needs nmap
 
