@@ -8,6 +8,7 @@ Languages:
 - ShellScript (bash)
 - PowerSHell
 - AutoIT
+- Rust
 
 
 :)
